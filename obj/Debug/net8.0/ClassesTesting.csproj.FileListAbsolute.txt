@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MGQS\ClassesTesting\bin\Debug\net8.0\ClassesTesting.exe
+C:\Users\User\Desktop\MGQS\ClassesTesting\bin\Debug\net8.0\ClassesTesting.deps.json
+C:\Users\User\Desktop\MGQS\ClassesTesting\bin\Debug\net8.0\ClassesTesting.runtimeconfig.json
+C:\Users\User\Desktop\MGQS\ClassesTesting\bin\Debug\net8.0\ClassesTesting.dll
+C:\Users\User\Desktop\MGQS\ClassesTesting\bin\Debug\net8.0\ClassesTesting.pdb
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.AssemblyInfo.cs
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.dll
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\refint\ClassesTesting.dll
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.pdb
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ClassesTesting.genruntimeconfig.cache
+C:\Users\User\Desktop\MGQS\ClassesTesting\obj\Debug\net8.0\ref\ClassesTesting.dll
